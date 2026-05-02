@@ -1,0 +1,25 @@
+🚀 Quick Start
+Add GitHub Secrets (Settings → Secrets and variables → Actions):
+
+GOOGLE_DRIVE_FOLDER_ID - Your Google Drive folder ID
+IG_USERNAME - Instagram username/email
+IG_PASSWORD - Instagram password
+Prepare Google Drive:
+
+Create folder with reel videos (.mp4, .mov, etc.)
+Copy folder ID from URL
+Deploy:
+
+Push these files to your repo
+GitHub Actions will start automatically on schedule
+✨ Key Features
+✅ Duplicate prevention via logging
+✅ 5 reels/day rate limiting
+✅ Smart auto-captioning
+✅ Error recovery
+✅ Space optimization (auto-delete)
+✅ Git integration (auto-commit logs)
+✅ Production-ready error handling
+✅ Comprehensive logging (console + file)
+
+All code is fully functional and production-ready! 
